@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Manan Parekh
 - Meet Jariwala
 - Dhruvil Patel
-- Moksha Grawal
+- Moksha Agrawal
 
 ## 🙏 Acknowledgments
 
