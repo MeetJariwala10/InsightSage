@@ -131,10 +131,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Manan Parekh
 - Meet Jariwala
+- Manan Parekh
 - Dhruvil Patel
-- Moksha Agrawal
+- Moksh Agrawal
 
 ## 🙏 Acknowledgments
 
